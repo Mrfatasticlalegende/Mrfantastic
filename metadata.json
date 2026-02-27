@@ -1,0 +1,5 @@
+{
+  "name": "Fantastic Shopping",
+  "description": "A modern grocery delivery web application similar to Blinkit with location-based features.",
+  "requestFramePermissions": ["geolocation"]
+}
